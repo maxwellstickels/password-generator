@@ -18,4 +18,4 @@ On the user's end, this is simply done by clicking the 'Generate Password' butto
 This website was designed with HTML 5 and CSS 3.0, and refactored in Visual Studio Code 1.54.3.
 
 ## Example Image
-[Screenshot From The Site](https://github.com/maxwellstickels/password-generator/blob/main/sitescreenshot.PNG)
+![Screenshot From The Site](https://github.com/maxwellstickels/password-generator/blob/main/sitescreenshot.PNG)

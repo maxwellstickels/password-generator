@@ -72,7 +72,6 @@ function promptUser() {
       allowedChars = allowedChars.concat(specials);
     }
   }
-  console.log(allowedChars);
 }
 
 // Add event listener to generate button
